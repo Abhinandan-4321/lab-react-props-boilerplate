@@ -1,0 +1,16 @@
+/* add your styles here */
+.row img{
+    height: 580px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.row{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
